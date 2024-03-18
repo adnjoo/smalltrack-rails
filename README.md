@@ -17,6 +17,11 @@ see available middleware
 bin/rails middleware
 ```
 
+see mapped routes
+```
+bin/rails routes
+```
+
 ---
 
 database:
