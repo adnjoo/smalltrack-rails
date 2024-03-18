@@ -24,6 +24,13 @@ bin/rails routes
 
 ---
 
+misc:
+```
+./bin/dev
+```
+
+---
+
 database:
 
 create db
