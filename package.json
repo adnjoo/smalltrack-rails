@@ -1,0 +1,17 @@
+{
+  "name": "smalltrack-rails",
+  "version": "1.0.0",
+  "description": "rails:",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./bin/dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
