@@ -2,6 +2,11 @@
 
 rails:
 
+quickstart:
+```
+./bin/dev
+```
+
 enter console
 ```
 bin/rails console
@@ -20,13 +25,6 @@ bin/rails middleware
 see mapped routes
 ```
 bin/rails routes
-```
-
----
-
-misc:
-```
-./bin/dev
 ```
 
 ---
